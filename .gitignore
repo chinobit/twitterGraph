@@ -5,3 +5,5 @@ __pycache__/
 *.crt
 *.csr
 *.pem
+*.s2i*
+s2i
