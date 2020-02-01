@@ -105,7 +105,8 @@ def main():
         "friends_count": userdata.friends_count,
         "listed_count": userdata.listed_count,
         "favourites_count": userdata.favourites_count,
-        "statuses_count": userdata.statuses_count
+        "statuses_count": userdata.statuses_count,
+        "retweet_count": userdata.retweet_count
     }
 
     for key, value in data_points.items():
