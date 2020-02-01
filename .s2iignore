@@ -1,0 +1,7 @@
+secrets.yml
+source_me
+*.s2i*
+.s2i/
+.s2i/*
+.gitignore
+.dockerignore
